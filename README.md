@@ -1,5 +1,7 @@
-# Using-Excel-to-Create-an-Insightful-Dashboard-for-FlexTrade
-As a data analyst, I used Excel to create an insightful dashboard that helped FlexTrade achieve its goals of improving the app and enhancing user experiences.
+# Using Excel to Create an Insightful-Dashboard for FlexTrade
+# [image](https://github.com/user-attachments/assets/b808bf51-ff24-4073-ad69-48b9bbdc9ec8)
+
+# As a data analyst, I used Excel to create an insightful dashboard that helped FlexTrade achieve its goals of improving the app and enhancing user experiences.
 1. Data Collection and Organization
 I gathered data from various sources, such as user behavior analytics, app performance metrics, and customer feedback. I organized the data into structured tables, which made it easy to track key metrics like checkout times, abandoned carts, user preferences, and sales trends.
 
